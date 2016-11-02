@@ -1,0 +1,6 @@
+{    "name": "Adafruit_ADXL345",    
+     "version": "0.1.1",    
+     "author": "TigerDKK",
+     "license": "Adafruit",
+     "description": "ADXL345 3-axes accelerometer"
+}
